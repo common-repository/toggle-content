@@ -1,0 +1,11 @@
+{
+	"name": "toggle-content/toggle-content",
+	"title": "Toggle Content",
+	"category": "widgets",
+	"description": "Toggle Contents or blocks with a beautiful switcher.",
+	"apiVersion": 2,
+	"supports": {
+		"align": ["wide", "full"]
+	},
+	"textdomain": "toggle-content"
+}
